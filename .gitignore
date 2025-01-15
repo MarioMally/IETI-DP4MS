@@ -1,2 +1,5 @@
 # Matlab .asv
 *.asv
+
+# Generated data files
+*/computedData*
