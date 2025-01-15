@@ -1,0 +1,3 @@
+[submodule "geopdes"]
+	path = geopdes
+	url = git@github.com:rafavzqz/geopdes.git
