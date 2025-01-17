@@ -1,5 +1,5 @@
 # IETI-DP4MS
-This repository contains the code to generate the numerical data employed in the paper "Tree--cotree-based tearing and interconnecting for 3D magnetostatics: A dual--primal approach" https://doi.org/10.1016/j.cma.2025.117737.
+This repository contains the code to generate the numerical data employed in the paper "Tree-cotree-based tearing and interconnecting for 3D magnetostatics: A dual-primal approach" https://doi.org/10.1016/j.cma.2025.117737.
 
 Our implementations are based on
   - NURBS-Package (version 1.4.3) M. Spink, D. Claxton, C. de Falco, R. Vazquez, The NURBS toolbox, http://octave.sourceforge.net/nurbs/index.html.
